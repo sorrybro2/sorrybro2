@@ -1,9 +1,8 @@
-## 👋 안녕하세요, 프론트엔드 개발자를 목표로 하고 있습니다
+## 사용자 경험을 고민하며, 유지보수하기 좋은 코드를 작성하는 개발자를 지향합니다
 
 - 💻 프론트엔드 개발자 지망
 - 📚 JavaScript 중심으로 React, TypeScript 학습 중
 - ✍️ Velog에 학습 내용과 고민 과정을 기록하고 있습니다
-- 🎯 목표: 사용자의 입장에서 생각하고, 유지보수하기 좋은 UI를 만드는 개발자
 
 ### 🛠 Tech Stack
 
@@ -17,6 +16,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🧩 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imwe25)](https://solved.ac/imwe25)
+
 
 ### 📫 Contact
 - Email: imwe25@naver.com
