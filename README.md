@@ -2,7 +2,6 @@
 
 - 💻 프론트엔드 개발자 지망
 - 📚 JavaScript 중심으로 React, TypeScript 학습 중
-- ✍️ Velog에 학습 내용과 고민 과정을 기록하고 있습니다
 
 ### 🛠 Tech Stack
 
