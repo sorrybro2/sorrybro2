@@ -1,8 +1,8 @@
 ## 사용자 경험을 고민하며, 유지보수하기 좋은 코드를 작성하는 개발자를 지향합니다
 
-- 💻 **Full Stack Developer**를 목표로 하며, 웹 서비스의 전체적인 흐름을 주도적으로 설계합니다.
-- 📚 **React, TypeScript, Next.js**를 기반으로 탄탄한 프론트엔드를 구축합니다.
-- 🏗️ **Node.js, Nest.js** 및 **AWS 인프라**를 활용하여 안정적이고 효율적인 백엔드 환경을 만듭니다.
+- 💻 **Full Stack Developer**를 목표로 하며, 웹 서비스의 전체적인 흐름을 주도적으로 설계하고 구현합니다.
+- 📚 **React, TypeScript, Next.js, Flutter**를 기반으로 안정적이고 완성도 높은 프론트엔드를 개발합니다.
+- 🏗️ **Node.js, express.js, Nest.js** 및 **GCS**를 활용하여 안정적이고 효율적인 백엔드 환경을 구축합니다.
 
 ### 🛠 Tech Stack
 
